@@ -8,15 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devgoe/-devgoe-coc.js.git"
+    "url": "git+https://github.com/devgoe/coc.js.git"
   },
-  "author": "",
+  "author": "DEVGOE",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devgoe/-devgoe-coc.js/issues"
+    "url": "https://github.com/devgoe/coc.js/issues"
   },
-  "homepage": "https://github.com/devgoe/-devgoe-coc.js#readme",
+  "homepage": "https://github.com/devgoe/coc.js#readme",
   "devDependencies": {
-    "typescript": "^5.3.2"
+    "typescript": "^5.3.2",
+    "jsdoc": "^4.0.2"
   }
 }
