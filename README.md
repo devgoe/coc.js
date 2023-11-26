@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/@devgoe%2Fcoc.js.svg)](https://badge.fury.io/js/@devgoe%2Fcoc.js)
+
 # coc.js
 
 ## Description
@@ -49,4 +51,3 @@ const clans = await client.clans.searchClans({
 Next steps i want to implement:
 
 - [ ] Bring the Token as variable
-- [ ]
