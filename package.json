@@ -1,8 +1,9 @@
 {
   "name": "@devgoe/coc.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "lib to call Clash-of-Clans API compatible with typescript",
-  "main": "dist/index.ts",
+  "main": "",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
